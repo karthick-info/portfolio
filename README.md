@@ -3,4 +3,4 @@
 Personal portfolio website showcasing skills and projects.
 
 ## Hosted URL
-[Link to your live site will appear here once GitHub Pages is enabled]
+https://karthick-info.github.io/portfolio/
